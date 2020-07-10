@@ -1,6 +1,11 @@
-# investigate-movies
-Basics of using cleaning and getting results from a dataset
+## This repository is a combination of all projects done in the Data analysis project on Udacity Nanodegree program.
 
-The dataset was imported and viewed using functions with pandas
-It was also cleaned and wrangled
-Some questions were concluded from using barcharts.
+### I have worked on Investigating a dataset project where I worked on a tdmb movie dataset
+
+##### I learnt to clean,visualize and draw conclusions from a data set using python libraries and graphs
+
+### I have also worked on AB testing
+
+##### I learnt about probabilty with data,hypothesis testing and logistics and linear statistics and how to apply those methods with data.
+
+
